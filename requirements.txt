@@ -1,0 +1,8 @@
+# LLM Playground - Requirements
+
+streamlit>=1.28.0
+openai>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
+pathlib2>=2.3.7
